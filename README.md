@@ -1,9 +1,9 @@
 ## <div align="center">Olá, Seja Bem-Vindo(a)! Aqui Você Encontra Detalhes do Meu GitHub 👇</div>
-<div align="center">
+<!-- <div align="center">
   <a href="https://github.com/jsgomesjr">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jsgomesjr&show_icons=true&theme=codeSTACKr&border_radius=20px&border_color=ffffff&bg_color=101010&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jsgomesjr&layout=compact&langs_count=8&theme=codeSTACKr&border_radius=20px&border_color=ffffff&bg_color=101010"/>
-</div>
+</div> -->
   
 <div style="display: inline_block" align="center"><br>
   <img title="HTML" align="center" alt="Jose-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">
